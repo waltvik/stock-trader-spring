@@ -1,0 +1,6 @@
+2020/06/21 16:19:25 Purchased aapl stock at $3000.0, since its higher that the current price ($338.85)
+2020/06/21 16:19:25 Purchased stock!
+2020/06/21 16:19:41 Bid for aapl was $3.0 but the stock price is $338.85, no purchase was made.
+2020/06/21 16:19:41 Couldn't buy the stock at that price.
+2020/06/21 16:26:31 Purchased aapl stock at $3000.0, since its higher that the current price ($338.85)
+2020/06/21 16:26:31 Purchased stock!
